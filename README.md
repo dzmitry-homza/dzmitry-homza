@@ -3,12 +3,13 @@ Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-912
 
 Full-stack JavaScript Developer
 -------------------------------
-* 🌍  Warsaw, Poland
-* ✉️  You can contact me at [dmitriy.homza@gmail.com](mailto:dmitriy.homza@gmail.com)
+
 - I'm excited to create responsive **React applications** that are enjoyable to use. 
 - Glad to be able to implement optimized **Express.js, Serverless** back-end applications with relational / non-relational databases, stable _and not always stable:)_ third-party services, various queue services. 
 - Also I'm happy to develop cross-platform **React Native apps**, and even more happy to publish them on the App Store and Google Play
 
+* 🌍  Warsaw, Poland
+* ✉️  You can contact me at [dmitriy.homza@gmail.com](mailto:dmitriy.homza@gmail.com)
 
 
 ### Skills
