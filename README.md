@@ -5,7 +5,7 @@ Full-stack JavaScript Developer
 -------------------------------
 
 - I'm excited to create responsive **React applications** that are enjoyable to use. 
-- Glad to be able to implement optimized **Express.js, Serverless** back-end applications with relational / non-relational databases, stable _and not always stable:)_ third-party services, various queue services. 
+- Glad to be able to implement optimized **Express.js, Nest.js, Serverless** back-end applications with relational / non-relational databases, stable _and not always stable:)_ third-party services, various queue services. 
 - Also I'm happy to develop cross-platform **React Native apps**, and even more happy to publish them on the App Store and Google Play
 
 * 🌍  Warsaw, Poland
